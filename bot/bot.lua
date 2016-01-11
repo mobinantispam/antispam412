@@ -208,8 +208,6 @@ function create_config( )
   config = {
     enabled_plugins = {
       "echo",
-    "leave_ban"
-     "anti_spam",
       "get",
       "google",
       "groupmanager",
